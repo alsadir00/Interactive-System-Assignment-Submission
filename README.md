@@ -1,55 +1,71 @@
-# 🏠 House Rent Brokerage Management System
+# 🎓 Interactive Assignment Submission Platform
 
-## 📌 Project Description
+## 🚀 Project Overview
 
 This project is a **Group Assignment** for the **Advanced Java Programming** course.  
-It focuses on the design and development of a **House Rent Brokerage Management System** that helps manage rental houses, brokers, landlords, tenants, and rental agreements in an organized and efficient way.
+It is an **Interactive Assignment Submission Platform** designed to modernize how **teachers and students collaborate** during coursework.
 
-The system demonstrates the practical application of **advanced Java concepts** and collaborative software development using **GitHub**.
-
----
-
-## 🎯 Project Objectives
-
-- Manage house rental listings efficiently  
-- Register and manage landlords, tenants, and brokers  
-- Track rental agreements and brokerage commissions  
-- Apply object-oriented programming (OOP) principles  
-- Practice teamwork and version control using GitHub  
+The system provides a structured digital environment where teachers manage classes and assignments, while students submit their work efficiently and transparently.
 
 ---
 
-## 🛠️ Technologies Used (Planned)
+## 💡 Why This Project?
 
-- Java (JDK 8 or higher)  
-- Object-Oriented Programming (OOP)  
-- Database  
-- Git & GitHub  
+Traditional assignment submission methods (email, paper, messaging apps) are:
+- Disorganized  
+- Time-consuming  
+- Error-prone  
+
+This platform solves those problems by offering a **centralized, role-based system** built using **Advanced Java concepts**.
+
+---
+
+## 🔄 System Workflow
+
+1. **Teacher creates a class/workspace**
+2. **Students join the class**
+3. **Teacher posts assignments with deadlines**
+4. **Students submit assignments**
+5. **Teacher reviews and manages submissions**
+
+---
+
+## 🧩 Core Features (Planned)
+
+- Teacher & Student roles
+- Class / workspace creation
+- Assignment posting
+- Secure assignment submission
+- Submission tracking
+- Basic feedback and status management
+
+---
+
+## 🛠️ Technologies Used
+
+- Java (Advanced Java)
+- Socket Programming
+- Multithreading
+- Object-Oriented Programming (OOP)
+- File Handling
+- Git & GitHub
 
 ---
 
 ## 👥 Group Members
 
-1. **Alsadir Ebrahim Adem** — UGR/33894/16  
-2. **Debela Lemessa Geleta** — UGR/34225/16  
-3. **Dawit Eyasu Tesfay** — UGR/34206/16  
-4. **Abdulkadr Heyredin Bekana** — UGR/33780/16  
-5. **Yeabkal Tibebu** — UGR/35600/16  
-
----
-
-## 📁 Project Scope (Planned Features)
-
-- House registration and management  
-- Landlord and tenant information management  
-- Broker assignment and commission tracking  
-- Rental agreement management  
-- Search and filtering of available houses  
+1. **Alsadir    Ebrahim Adem** — UGR/33894/16  
+2. **Debela     Lemessa** — UGR/34225/16  
+3. **Dawit      Eyasu** — UGR/34206/16  
+4. **Abdulkadr  Heyredin** — UGR/33780/16  
+5. **Yeabkal    Tibebu** — UGR/35600/16 
+6. **Nardos     Ayalew** — UGR/35087/16  
 
 
 ---
 
-## 📌 Notes
 
-This project is developed strictly for **academic purposes** as part of the **Advanced Java Programming** course and follows all guidelines provided by the instructor.
 
+## 📌 Academic Note
+
+This project is developed **strictly for academic purposes** as part of the **Advanced Java Programming** course and follows all guidelines provided by the instructor.

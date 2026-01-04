@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/web/index.html</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/model/Assignment.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/model/User.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/model/Submission.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/model/DataStore.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/util/DBConnection.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/dao/UserDAO.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/web/login.html</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/LoginServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/web/studentDashboard.html</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/web/instructorDashboard.html</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/web/createAssignment.html</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/dao/AssignmentDAO.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/servlet/CreateAssignmentServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/web/viewAssignments.html</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/servlet/ViewAssignmentsServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/web/submitProject.html</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/dao/SubmissionDAO.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/thread/SubmissionUploadThread.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/servlet/SubmitProjectServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/dao/FeedbackDAO.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/web/viewSubmissions.html</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/servlet/ViewSubmissionsServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/web/giveFeedback.html</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/servlet/GiveFeedbackServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/web/viewFeedback.html</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/servlet/ViewFeedbackServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/servlet/DownloadServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/web/css/main.css</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/servlet/SubmitProjectPageServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/servlet/GiveFeedbackPageServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/servlet/ViewGivenFeedbackServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/servlet/ViewInstructorAssignmentsServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/servlet/DeleteAssignmentServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/projectsubmission/src/java/servlet/EditAssignmentServlet.java</file>
+        </group>
+    </open-files>
+</project-private>

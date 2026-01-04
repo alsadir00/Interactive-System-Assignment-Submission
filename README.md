@@ -54,7 +54,7 @@ This platform solves those problems by offering a **centralized, role-based syst
 
 ## 👥 Group Members
 
-1. **Alsadir    Ebrahim Adem** — UGR/33894/16  
+1. **Alsadir    Ebrahim** — UGR/33894/16  
 2. **Debela     Lemessa** — UGR/34225/16  
 3. **Dawit      Eyasu** — UGR/34206/16  
 4. **Abdulkadr  Heyredin** — UGR/33780/16  
